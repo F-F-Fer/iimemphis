@@ -44,7 +44,7 @@ Let's connect and build the future together! 🌟
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/ghazikhan205), [Instagram](https://instagram.com/codewithghazi)**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iimemphis&layout=compact&theme=dark&hide_border=true)
 
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true&theme=dark)
 
