@@ -1,5 +1,8 @@
 ## Hi there! 👋 I'm Fernando.
 
+### Top Skills:
+![LUA](https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&logoColor=white)![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)![Gradle](https://img.shields.io/badge/gradle-6DA55F?style=for-the-badge&logo=gradle&logoColor=white)![Spring](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
 🚀 With over a decade of experience, I've honed my skills in crafting top-notch proprietary enterprise software products. My journey is all about utilizing diverse technologies to design, develop, and deploy enterprise-class solutions while gaining deep insights into customers' needs and product usage.
 
 👨‍🏭 Leading and mentoring teams, I establish coding standards and UI best practices. My extensive app development background ensures I'm always at the forefront of innovative UI engineering.
@@ -11,11 +14,6 @@
 🧠 When it comes to problem-solving, my Agile mindset shines through, adapting seamlessly to various methodologies. My knack for breaking down complex technical matters into clear, digestible explanations lets me bridge the gap between tech and business effortlessly.
 
 Let's connect and build the future together! 🌟
-
-
-### Top Skills:
-![LUA](https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&logoColor=white)![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)![Gradle](https://img.shields.io/badge/gradle-6DA55F?style=for-the-badge&logo=gradle&logoColor=white)![Spring](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
 ---
 
 - 🔭 I’m currently working as **Sr. Software Engineer @ Tech9**
