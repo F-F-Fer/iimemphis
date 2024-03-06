@@ -22,7 +22,3 @@ Let's connect and build the future together! 🌟
 - 🌱 I’m currently learning **Blockchain**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 🤔 I’m looking for help with digital marketing to drive traffic to my blog
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iimemphis&layout=compact&theme=dark&hide_border=true)
-
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=iimemphis&show_icons=true&hide_border=true&theme=dark)
