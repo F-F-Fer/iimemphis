@@ -1,6 +1,3 @@
-![Banner Image](image/Banner.png)
-
-
 ## Hi there! 👋 I'm Fernando.
 
 🚀 With over a decade of experience, I've honed my skills in crafting top-notch proprietary enterprise software products. My journey is all about utilizing diverse technologies to design, develop, and deploy enterprise-class solutions while gaining deep insights into customers' needs and product usage.
