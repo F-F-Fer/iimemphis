@@ -5,8 +5,6 @@
 
 🚀 With over three years of experience in Lua and eight months of experience in Java, I have acquired significant skills in software development. Always focused on solving real user problems through effective technological solutions.
 
-👨‍🏭 Leading and mentoring teams, I establish coding standards and UI best practices. My extensive app development background ensures I'm always at the forefront of innovative UI engineering.
-
 🌙 Experience in creating and distributing Lua extensions for players around the world, adapting the solutions according to what they needed.
 
 👨‍🚒 Solo development of a stock management system during an internship at the Fire Department's warehouse, replacing Excel spreadsheets to enhance operational efficiency.
