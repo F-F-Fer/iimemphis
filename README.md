@@ -3,7 +3,7 @@
 ### Top Skills:
 ![LUA](https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&logoColor=white)![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)![Gradle](https://img.shields.io/badge/gradle-6DA55F?style=for-the-badge&logo=gradle&logoColor=white)![Spring](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=mysql&logoColor=white)
 
-🚀 With over three years of experience in Lua language and eight months of experience in Java language, I have acquired significant skills in software development. Always focused on solving real user problems through effective technological solutions.
+🚀 With over three years of experience in Lua and eight months of experience in Java, I have acquired significant skills in software development. Always focused on solving real user problems through effective technological solutions.
 
 👨‍🏭 Leading and mentoring teams, I establish coding standards and UI best practices. My extensive app development background ensures I'm always at the forefront of innovative UI engineering.
 
