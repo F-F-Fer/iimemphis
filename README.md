@@ -7,9 +7,9 @@
 
 👨‍🏭 Leading and mentoring teams, I establish coding standards and UI best practices. My extensive app development background ensures I'm always at the forefront of innovative UI engineering.
 
-🛠️ Experience in creating and distributing Lua extensions for players around the world, adapting the solutions according to what they needed.
+🌙 Experience in creating and distributing Lua extensions for players around the world, adapting the solutions according to what they needed.
 
-🔐 Solo development of a stock management system during an internship at the Fire Department's warehouse, replacing Excel spreadsheets to enhance operational efficiency.
+👨‍🚒 Solo development of a stock management system during an internship at the Fire Department's warehouse, replacing Excel spreadsheets to enhance operational efficiency.
 
 🧠 When it comes to problem-solving, my Agile mindset shines through, adapting seamlessly to various methodologies. My knack for breaking down complex technical matters into clear, digestible explanations lets me bridge the gap between tech and business effortlessly.
 
