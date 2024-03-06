@@ -11,5 +11,5 @@
 
 🧠 Basic understanding of the main methodologies and open to guidance and feedback to improve professional effectiveness.
 
-Let's connect and build the future together! 🌟
+Let's create the future! 🌟
 ---
