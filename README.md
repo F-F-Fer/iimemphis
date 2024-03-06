@@ -17,7 +17,7 @@ Let's connect and build the future together! 🌟
 
 
 ### Top Skills:
-![LUA](https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&logoColor=white)![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)![Gradle](https://img.shields.io/badge/gradle-6DA55F?style=for-the-badge&logo=gradle&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![LUA](https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&logoColor=white)![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)![Gradle](https://img.shields.io/badge/gradle-6DA55F?style=for-the-badge&logo=gradle&logoColor=white)![Spring](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ---
 
