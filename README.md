@@ -12,6 +12,3 @@
 👨‍🚒 Solo development of a stock management system during an internship at the Fire Department's warehouse, replacing Excel spreadsheets to enhance operational efficiency.
 
 🧠 Although I'm still in the early stages of my career, I have a basic understanding of various methodologies and I'm open to receiving guidance and feedback to become more effective.
-
-Let's connect and build the future together! 🌟
----
