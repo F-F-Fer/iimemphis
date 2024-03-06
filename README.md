@@ -9,7 +9,7 @@
 
 🛠️ Experience in creating and distributing Lua extensions for players around the world, adapting the solutions according to what they needed.
 
-🔐 Industry Authentication standards like oAuth2? Yep, I've got you covered. Incorporating Authorization aspects into the UI framework is just another day at the office for me.
+🔐 Solo development of a stock management system during an internship at the Fire Department's warehouse, replacing Excel spreadsheets to enhance operational efficiency.
 
 🧠 When it comes to problem-solving, my Agile mindset shines through, adapting seamlessly to various methodologies. My knack for breaking down complex technical matters into clear, digestible explanations lets me bridge the gap between tech and business effortlessly.
 
