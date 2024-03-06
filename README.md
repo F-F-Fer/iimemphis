@@ -11,7 +11,7 @@
 
 👨‍🚒 Solo development of a stock management system during an internship at the Fire Department's warehouse, replacing Excel spreadsheets to enhance operational efficiency.
 
-🧠 When it comes to problem-solving, my Agile mindset shines through, adapting seamlessly to various methodologies. My knack for breaking down complex technical matters into clear, digestible explanations lets me bridge the gap between tech and business effortlessly.
+🧠 Although I'm still in the early stages of my career, I have a basic understanding of various methodologies and I'm open to receiving guidance and feedback to become more effective.
 
 Let's connect and build the future together! 🌟
 ---
